@@ -12,6 +12,7 @@
 # TODO: Write test for play
 # TODO: fix the god ugly victory checks
 
+# TODO: add .gitignore
 
 class Game:
 	def __init__(self, *starting_player):
